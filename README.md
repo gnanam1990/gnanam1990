@@ -40,8 +40,12 @@ I am an open-source developer focused on making real contributions to active AI 
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gitlawb&repo=openclaude&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=open-webui&repo=open-webui&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Gitlawb/openclaude">
+    <img src="https://img.shields.io/badge/OpenClaude-Top%20contribution%20highlight-22c55e?style=for-the-badge&labelColor=0f172a" />
+  </a>
+  <a href="https://github.com/open-webui/open-webui">
+    <img src="https://img.shields.io/badge/Open%20WebUI-Active%20open%20source%20contribution-38bdf8?style=for-the-badge&labelColor=0f172a" />
+  </a>
 </div>
 
 ### OpenClaude
@@ -84,12 +88,13 @@ I am an open-source developer focused on making real contributions to active AI 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnanam1990&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanam1990&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnanam1990&theme=tokyonight" />
 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gnanam1990&theme=tokyonight" />
 <img height="180em" src="https://streak-stats.demolab.com?user=gnanam1990&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=gnanam1990&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gnanam1990&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gnanam1990&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
