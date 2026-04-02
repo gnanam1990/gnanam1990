@@ -11,6 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=gnanam1990&style=for-the-badge&color=7c3aed" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/github/followers/gnanam1990?style=for-the-badge&color=2563eb&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/stars/gnanam1990?affiliations=owner&style=for-the-badge&color=ec4899&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Open_Source-Active-f59e0b?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Devtools-7c3aed?style=for-the-badge&labelColor=0f172a" />
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gnanam1990&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
+
 </div>
 
 ## About Me
@@ -23,6 +32,10 @@ I am an open-source developer focused on AI tools, developer productivity, and f
 - Working mainly with TypeScript, Python, Rust, and modern web stacks
 
 ## Open Source Highlights
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanam1990&bg_color=0f172a&color=38bdf8&line=8b5cf6&point=f59e0b&area=true&hide_border=true" width="100%" />
+</div>
 
 ### OpenClaude
 - Top contributor to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude)
@@ -60,6 +73,8 @@ I am an open-source developer focused on AI tools, developer productivity, and f
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanam1990&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img height="180em" src="https://streak-stats.demolab.com?user=gnanam1990&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=gnanam1990&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -102,3 +117,5 @@ Automated trade-copying system with wallet tracking, filtering, dashboard, and l
   <a href="https://x.com/0x_art"><img src="https://img.shields.io/badge/X-@0x__art-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://t.me/gnanamccnOOb"><img src="https://img.shields.io/badge/Telegram-gnanamccnOOb-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1D4ED8,50:7C3AED,75:EC4899,100:F59E0B" />
