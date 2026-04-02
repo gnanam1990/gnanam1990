@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,25:1D4ED8,50:7C3AED,75:EC4899,100:F59E0B&text=Gnanam%20%7C%20KRATOS&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Top%20Contributor%20to%20OpenClaude%20%7C%20Open%20Source%20Developer%20%7C%20AI%20and%20Full-Stack&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:0f172a,45:1d4ed8,70:7c3aed,100:ec4899&text=OSS%20Hero%20%7C%20Gnanam&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Top%20Contributor%20to%20OpenClaude%20%7C%20Contributor%20to%20Open%20WebUI&descAlignY=57&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Top+Contributor+to+OpenClaude;Contributor+to+Open+WebUI;Building+AI+tools%2C+developer+tools%2C+and+full-stack+apps;TypeScript+%7C+Python+%7C+Rust+%7C+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=980&lines=Top+Contributor+to+OpenClaude;Contributor+to+Open+WebUI;Shipping+real+improvements+in+active+open-source+projects;Building+AI+tools%2C+developer+tools%2C+and+full-stack+apps)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/gnanam1990"><img src="https://img.shields.io/badge/GitHub-gnanam1990-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -12,6 +12,8 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/OpenClaude-Top%20Contributor-22c55e?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Open%20WebUI-Contributor-38bdf8?style=for-the-badge&labelColor=020617" />
   <img src="https://img.shields.io/github/followers/gnanam1990?style=for-the-badge&color=2563eb&labelColor=0f172a" />
   <img src="https://img.shields.io/github/stars/gnanam1990?affiliations=owner&style=for-the-badge&color=ec4899&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Open_Source-Active-f59e0b?style=for-the-badge&labelColor=0f172a" />
@@ -22,29 +24,42 @@
 
 </div>
 
-## About Me
+## Open Source First
 
-I am an open-source developer focused on AI tools, developer productivity, and full-stack software.
+I am an open-source developer focused on making real contributions to active AI and developer-tooling projects.
 
 - Top contributor to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude)
 - Contributor to [`open-webui/open-webui`](https://github.com/open-webui/open-webui)
-- Interested in AI-integrated products, backend systems, automation, and practical developer tooling
-- Working mainly with TypeScript, Python, Rust, and modern web stacks
+- Strong interest in AI tooling, backend systems, product-quality fixes, and practical developer workflows
+- Working mainly with TypeScript, Python, Rust, and modern full-stack tooling
 
-## Open Source Highlights
+## OSS Impact
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanam1990&bg_color=0f172a&color=38bdf8&line=8b5cf6&point=f59e0b&area=true&hide_border=true" width="100%" />
 </div>
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gitlawb&repo=openclaude&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=open-webui&repo=open-webui&theme=tokyonight&hide_border=true" />
+</div>
+
 ### OpenClaude
-- Top contributor to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude)
-- Worked on real implementation, debugging, review, and quality-focused improvements
-- Contributed in a production-style collaborative workflow
+- Top contributor to one of the most visible projects in my profile
+- Focused on implementation quality, debugging, review depth, and real behavior fixes
+- Comfortable working inside an existing codebase with production-style collaboration
 
 ### Open WebUI
-- Contributor to [`open-webui/open-webui`](https://github.com/open-webui/open-webui)
-- Worked with real-world AI product code and open-source collaboration practices
+- Contributed to a widely used open-source AI interface project
+- Gained hands-on experience with mature AI product code and contribution workflows
+
+## Core Strengths
+
+- Open-source collaboration
+- Bug diagnosis and behavior-focused fixes
+- AI tooling and developer tooling
+- Full-stack product engineering
+- Code review and implementation quality
 
 ## Tech Stack
 
@@ -78,7 +93,7 @@ I am an open-source developer focused on AI tools, developer productivity, and f
 
 </div>
 
-## Featured Projects
+## Personal Builds
 
 ### [`openclaude`](https://github.com/gnanam1990/openclaude)
 Claude Code opened to any LLM with support for OpenAI, Gemini, DeepSeek, Ollama, and OpenAI-compatible providers.
@@ -103,7 +118,7 @@ Automated trade-copying system with wallet tracking, filtering, dashboard, and l
 
 </div>
 
-## Current Focus
+## What I Am Building
 
 - Open-source contribution
 - AI interfaces and tooling
