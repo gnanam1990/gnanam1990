@@ -1,8 +1,8 @@
-name: Generate contribution snake
+name: Generate contribution animations
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
   push:
     branches:
