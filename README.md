@@ -28,6 +28,36 @@ I build and improve practical software: AI interfaces, developer tooling, automa
 
 ## 🚀 Open Source Highlights
 
+## 📈 2026 Coding Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Repos Active** | 96+ |
+| **Total Commits** | 1,100+ |
+| **Lines Added** | ~800,000+ |
+| **Lines Deleted** | ~62,000+ |
+| **Net New Lines** | ~738,000+ |
+
+</div>
+
+### 🔥 Top Repos by Output
+
+| Repo | Lines Added | Commits |
+|------|-------------|---------|
+| `poly-discovery` | +108,257 | 100 |
+| `polymarket-copy-trader` | +75,638 | 100 |
+| `polyforge` | +71,338 | 65 |
+| `polysuite` | +68,018 | 65 |
+| `poly-targets` | +35,079 | 61 |
+| `poly-discovery-private` | +35,874 | 7 |
+| `cross-pair-arb-v2` | +35,653 | 90 |
+| `krat` | +21,950 | 100 |
+| `ethos-trust` | +17,630 | 1 |
+| `ethossphere` | +16,944 | 3 |
+
+
 <table>
   <tr>
     <td width="50%">
