@@ -58,24 +58,24 @@
   <circle cx="105" cy="65" r="8" fill="#f59e0b"/>
   <circle cx="132" cy="65" r="8" fill="#22c55e"/>
 
-  <text x="178" y="74" class="mono title">gnanam1990 / developer-workflow</text>
-  <text x="880" y="74" class="mono line muted">AI tooling online</text>
+  <text x="178" y="74" class="mono title">kratos / developer-workflow</text>
+  <text x="900" y="74" class="mono line muted">agents online</text>
   <circle cx="1098" cy="65" r="9" fill="#22c55e" filter="url(#soft-glow)">
     <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
   </circle>
 
   <g class="mono">
     <g class="cmd cmd1">
-      <text x="82" y="135" class="line"><tspan class="green">$</tspan> profile build --focus open-source --mode animated</text>
+      <text x="82" y="135" class="line"><tspan class="green">$</tspan> profile build --focus ai+agents --mode animated</text>
     </g>
     <g class="cmd cmd2">
-      <text x="82" y="183" class="line"><tspan class="cyan">✓</tspan> AI developer tooling, clean reviews, production fixes</text>
+      <text x="82" y="183" class="line"><tspan class="cyan">✓</tspan> AI tooling · full-stack engineering · onchain agents</text>
     </g>
     <g class="cmd cmd3">
-      <text x="82" y="231" class="line"><tspan class="cyan">✓</tspan> TypeScript · Python · Rust · React · Node.js</text>
+      <text x="82" y="231" class="line"><tspan class="cyan">✓</tspan> TypeScript · Python · Rust · Solidity · React · Node</text>
     </g>
     <g class="cmd cmd4">
-      <text x="82" y="279" class="line"><tspan class="pink">→</tspan> Contributions: OpenClaude + Open WebUI</text>
+      <text x="82" y="279" class="line"><tspan class="pink">→</tspan> Building: Kite agent stack · Sherpa on Base · openclaude</text>
     </g>
     <g class="cmd cmd5">
       <text x="82" y="327" class="line"><tspan class="green">ready</tspan> shipping useful software with sharp debugging</text>
