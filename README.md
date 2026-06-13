@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,35:0f766e,70:2563eb,100:ec4899&text=Gnanam%201990&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Open%20Source%20Developer%20%E2%80%A2%20AI%20Tooling%20%E2%80%A2%20Full-stack%20Builder&descSize=18&descAlignY=58&animation=twinkling" alt="Animated profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,35:0f766e,70:2563eb,100:ec4899&text=KRATOS&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Engineer%20%E2%80%A2%20Onchain%20Agent%20Infrastructure%20%E2%80%A2%20Open%20Source&descSize=17&descAlignY=58&animation=twinkling" alt="Animated profile header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+developer+tools;Shipping+clean+fixes+in+real+codebases;Open-source+contributor+%7C+TypeScript+%7C+Python+%7C+Rust;Always+debugging%2C+reviewing%2C+and+improving)](https://github.com/gnanam1990)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+onchain+AI+agent+infrastructure;Shipping+AI+developer+tooling+%26+full-stack+apps;TypeScript+%7C+Python+%7C+Rust+%7C+Solidity;Always+debugging%2C+reviewing%2C+and+improving)](https://github.com/gnanam1990)
 
 <p>
   <a href="https://github.com/gnanam1990"><img src="https://img.shields.io/badge/GitHub-gnanam1990-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub profile" /></a>
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=gnanam1990&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS&labelColor=020617" alt="Profile views" />
 </p>
 
-<img width="100%" src="./assets/animated-terminal.svg" alt="Animated terminal showing Gnanam's developer workflow" />
+<img width="100%" src="./assets/animated-terminal.svg" alt="Animated terminal showing Kratos' developer workflow" />
 
 </div>
 
@@ -19,74 +19,64 @@
 
 ## 👋 About
 
-I build and improve practical software: AI interfaces, developer tooling, automation, and full-stack products. I like working inside active codebases where debugging, implementation quality, and careful review matter.
+I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and **AI developer tooling**. Most of my work lives where autonomous agents meet real systems — payments, wallets, automation, and reputation — alongside practical AI tooling and full-stack products. I like working inside active codebases where debugging, implementation quality, and careful review matter.
 
-- 🏆 Top contributor to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude)
-- 🤝 Contributor to [`open-webui/open-webui`](https://github.com/open-webui/open-webui)
-- 🛠️ Focused on real behavior fixes, maintainable code, and useful features
-- ⚡ Main stack: TypeScript, Python, Rust, React, Node.js
+- 🤖 Building a full **onchain AI-agent stack** on [Kite](https://github.com/gnanam1990?tab=repositories&q=kite) — wallets, payments, automation, research & trading agents
+- ⛓️ Author of [`sherpa`](https://github.com/gnanam1990/sherpa) — a natural-language onchain agent for **Base** (Smart Wallet + sponsored gas)
+- 🧠 Built [`openclaude`](https://github.com/gnanam1990/openclaude) — Claude Code opened to OpenAI-compatible providers
+- 🤝 Contributor to [`open-webui/open-webui`](https://github.com/open-webui/open-webui), a widely used open-source AI interface
+- ⚡ Main stack: TypeScript, Python, Rust, Solidity, React, Node.js
 
-## 🚀 Open Source Highlights
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
-## 📈 2026 Coding Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Repos Active** | 96+ |
-| **Total Commits** | 1,100+ |
-| **Lines Added** | ~800,000+ |
-| **Lines Deleted** | ~62,000+ |
-| **Net New Lines** | ~738,000+ |
-
-</div>
-
-### 🔥 Top Repos by Output
-
-| Repo | Lines Added | Commits |
-|------|-------------|---------|
-| `poly-discovery` | +108,257 | 100 |
-| `polymarket-copy-trader` | +75,638 | 100 |
-| `polyforge` | +71,338 | 65 |
-| `polysuite` | +68,018 | 65 |
-| `poly-targets` | +35,079 | 61 |
-| `poly-discovery-private` | +35,874 | 7 |
-| `cross-pair-arb-v2` | +35,653 | 90 |
-| `krat` | +21,950 | 100 |
-| `ethos-trust` | +17,630 | 1 |
-| `ethossphere` | +16,944 | 3 |
-
+## 🚀 What I Build
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>OpenClaude</h3>
-      <p>Top contributor to <a href="https://github.com/Gitlawb/openclaude">Gitlawb/openclaude</a>, working on implementation quality, behavior fixes, and code review in a fast-moving AI tooling project.</p>
-      <a href="https://github.com/Gitlawb/openclaude"><img src="https://img.shields.io/badge/OpenClaude-Top%20Contributor-22c55e?style=for-the-badge&labelColor=020617" alt="OpenClaude top contributor" /></a>
+    <td width="50%" valign="top">
+      <h3>🤖 Kite Agent Ecosystem</h3>
+      <p>A full stack of autonomous-agent infrastructure on the Kite blockchain — wallets, payments, subscriptions, automation studio, research & trading agents, and agent reputation.</p>
+      <a href="https://github.com/gnanam1990?tab=repositories&q=kite"><img src="https://img.shields.io/badge/Onchain%20Agents-Infrastructure-7c3aed?style=for-the-badge&labelColor=020617" alt="Kite agent ecosystem" /></a>
     </td>
-    <td width="50%">
-      <h3>Open WebUI</h3>
-      <p>Contributor to <a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a>, a widely used open-source AI interface with a mature product and community.</p>
+    <td width="50%" valign="top">
+      <h3>⛓️ Sherpa</h3>
+      <p>Natural-language agent for <a href="https://github.com/gnanam1990/sherpa">Base</a> — type plain English, Sherpa does the onchain part. Coinbase Smart Wallet + sponsored gas. MIT licensed.</p>
+      <a href="https://github.com/gnanam1990/sherpa"><img src="https://img.shields.io/badge/Base-Onchain%20Agent-2563eb?style=for-the-badge&labelColor=020617" alt="Sherpa on Base" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 openclaude</h3>
+      <p>Claude Code opened up to OpenAI-compatible providers — a flexible coding-agent surface for teams that want provider choice.</p>
+      <a href="https://github.com/gnanam1990/openclaude"><img src="https://img.shields.io/badge/AI%20Tooling-Coding%20Agent-22c55e?style=for-the-badge&labelColor=020617" alt="openclaude" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Open WebUI</h3>
+      <p>Contributor to <a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a>, a mature, widely deployed open-source AI interface with a large community.</p>
       <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/Open%20WebUI-Contributor-38bdf8?style=for-the-badge&labelColor=020617" alt="Open WebUI contributor" /></a>
     </td>
   </tr>
 </table>
 
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nodejs,nextjs,tailwind,git,github,docker,linux&perline=6" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,solidity,react,nodejs,nextjs,tailwind,postgres,docker,linux,git,github&perline=7" alt="Tech stack icons" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/AI%20Tooling-7c3aed?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617" alt="AI tooling" />
-<img src="https://img.shields.io/badge/Code%20Review-0f766e?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=020617" alt="Code review" />
+<img src="https://img.shields.io/badge/Onchain%20%2F%20Web3-7c3aed?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=020617" alt="Onchain / Web3" />
+<img src="https://img.shields.io/badge/AI%20Agents-0f766e?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617" alt="AI agents" />
 <img src="https://img.shields.io/badge/Automation-ec4899?style=for-the-badge&logo=zapier&logoColor=white&labelColor=020617" alt="Automation" />
+<img src="https://img.shields.io/badge/Code%20Review-2563eb?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=020617" alt="Code review" />
 
 </div>
+
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## 📊 GitHub Snapshot
 
@@ -117,8 +107,6 @@ I build and improve practical software: AI interfaces, developer tooling, automa
 
 <div align="center">
 
-![snake workflow](https://github.com/gnanam1990/gnanam1990/actions/workflows/snake.yml/badge.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake.svg" />
@@ -129,18 +117,24 @@ I build and improve practical software: AI interfaces, developer tooling, automa
 
 </div>
 
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
 ## 💼 Selected Projects
 
 | Project | Description |
 | --- | --- |
-| [`openclaude`](https://github.com/gnanam1990/openclaude) | Claude Code opened to OpenAI, Gemini, DeepSeek, Ollama, and other OpenAI-compatible providers. |
-| [`hermes-agent`](https://github.com/gnanam1990/hermes-agent) | AI agent focused on practical assistant workflows and extensibility. |
-| [`polymarket-copy-bot`](https://github.com/gnanam1990/polymarket-copy-bot) | Wallet tracking, filtering, dashboard, live trading, and paper trading automation. |
-| [`ethossphere`](https://github.com/gnanam1990/ethossphere) | TypeScript project showing frontend and backend engineering practice. |
+| [`sherpa`](https://github.com/gnanam1990/sherpa) | Natural-language onchain agent for Base — plain English in, onchain actions out. Smart Wallet + sponsored gas, MIT licensed. |
+| [`kiteagentos`](https://github.com/gnanam1990/kiteagentos) | Operating system / control plane for autonomous Kite agents. |
+| [`agentfi-app`](https://github.com/gnanam1990/agentfi-app) | DeFi platform on Kite Mainnet — DEX, liquid staking, and yield aggregation. |
+| [`kitepay`](https://github.com/gnanam1990/kitepay) | Stripe-style, agent-callable payment links on the Kite blockchain. |
+| [`kite-research-agent`](https://github.com/gnanam1990/kite-research-agent) | Autonomous research analyst for Kite wallets, contracts, and ecosystem activity. |
+| [`openclaude`](https://github.com/gnanam1990/openclaude) | Claude Code opened to OpenAI-compatible providers. |
 
 ## 🎯 Current Focus
 
-`Open source` · `AI interfaces` · `Developer tooling` · `Automation` · `Full-stack product work`
+`Onchain AI agents` · `Agent payments & infrastructure` · `AI developer tooling` · `Automation` · `Full-stack product work`
+
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## 📬 Contact
 
