@@ -21,10 +21,11 @@
 
 I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and **AI developer tooling**. Most of my work lives where autonomous agents meet real systems — payments, wallets, automation, and reputation — alongside practical AI tooling and full-stack products. I like working inside active codebases where debugging, implementation quality, and careful review matter.
 
+- 🏗️ **Developer @ [Gitlawb](https://github.com/Gitlawb)** — building [`openclaude`](https://github.com/Gitlawb/openclaude) and the Gitlawb protocol (decentralized git node, onchain contracts, AI-agent tooling)
+- 🧠 **Core contributor** to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude) — #3 contributor on a 28k★ AI coding agent that runs anywhere and uses any model
+- 🤝 Contributor to [`openclaw/openclaw`](https://github.com/openclaw/openclaw) (378k★) and [`open-webui/open-webui`](https://github.com/open-webui/open-webui)
 - 🤖 Building a full **onchain AI-agent stack** on [Kite](https://github.com/gnanam1990?tab=repositories&q=kite) — wallets, payments, automation, research & trading agents
 - ⛓️ Author of [`sherpa`](https://github.com/gnanam1990/sherpa) — a natural-language onchain agent for **Base** (Smart Wallet + sponsored gas)
-- 🧠 Built [`openclaude`](https://github.com/gnanam1990/openclaude) — Claude Code opened to OpenAI-compatible providers
-- 🤝 Contributor to [`open-webui/open-webui`](https://github.com/open-webui/open-webui), a widely used open-source AI interface
 - ⚡ Main stack: TypeScript, Python, Rust, Solidity, React, Node.js
 
 <img width="100%" src="./assets/animated-divider.svg" alt="" />
@@ -46,17 +47,31 @@ I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 openclaude</h3>
-      <p>Claude Code opened up to OpenAI-compatible providers — a flexible coding-agent surface for teams that want provider choice.</p>
-      <a href="https://github.com/gnanam1990/openclaude"><img src="https://img.shields.io/badge/AI%20Tooling-Coding%20Agent-22c55e?style=for-the-badge&labelColor=020617" alt="openclaude" /></a>
+      <h3>🧠 openclaude — Core Contributor</h3>
+      <p><strong>#3 contributor</strong> to <a href="https://github.com/Gitlawb/openclaude">Gitlawb/openclaude</a> (28k★) — an AI coding agent that runs anywhere and uses any model.</p>
+      <a href="https://github.com/Gitlawb/openclaude"><img src="https://img.shields.io/badge/openclaude-Core%20Contributor-22c55e?style=for-the-badge&labelColor=020617" alt="openclaude core contributor" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤝 Open WebUI</h3>
-      <p>Contributor to <a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a>, a mature, widely deployed open-source AI interface with a large community.</p>
-      <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/Open%20WebUI-Contributor-38bdf8?style=for-the-badge&labelColor=020617" alt="Open WebUI contributor" /></a>
+      <h3>🏗️ Gitlawb</h3>
+      <p>Developer at <a href="https://github.com/Gitlawb">Gitlawb</a> — building openclaude and the Gitlawb protocol: a decentralized git node, onchain contracts, and parallel AI-agent tooling.</p>
+      <a href="https://github.com/Gitlawb"><img src="https://img.shields.io/badge/Gitlawb-Developer-0f766e?style=for-the-badge&labelColor=020617" alt="Developer at Gitlawb" /></a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<br/>
+
+<strong>Open-source contributions</strong>
+
+<br/><br/>
+
+<a href="https://github.com/Gitlawb/openclaude"><img src="https://img.shields.io/badge/openclaude-Core%20Contributor%20%E2%80%A2%20%233-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="openclaude core contributor" /></a>
+<a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/openclaw-Contributor%20%E2%80%A2%20378k%E2%98%85-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="openclaw contributor" /></a>
+<a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/open--webui-Contributor-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="open-webui contributor" /></a>
+
+</div>
 
 <img width="100%" src="./assets/animated-divider.svg" alt="" />
 
@@ -128,7 +143,7 @@ I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and 
 | [`agentfi-app`](https://github.com/gnanam1990/agentfi-app) | DeFi platform on Kite Mainnet — DEX, liquid staking, and yield aggregation. |
 | [`kitepay`](https://github.com/gnanam1990/kitepay) | Stripe-style, agent-callable payment links on the Kite blockchain. |
 | [`kite-research-agent`](https://github.com/gnanam1990/kite-research-agent) | Autonomous research analyst for Kite wallets, contracts, and ecosystem activity. |
-| [`openclaude`](https://github.com/gnanam1990/openclaude) | Claude Code opened to OpenAI-compatible providers. |
+| [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude) | Core contributor (#3) — an open AI coding agent that runs anywhere and uses any model. |
 
 ## 🎯 Current Focus
 
