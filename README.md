@@ -39,8 +39,8 @@
 I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and **AI developer tooling**. Most of my work lives where autonomous agents meet real systems — payments, wallets, automation, and reputation — alongside practical AI tooling and full-stack products. I like working inside active codebases where debugging, implementation quality, and careful review matter.
 
 - 🏗️ **Developer @ [Gitlawb](https://github.com/Gitlawb)** — building [`openclaude`](https://github.com/Gitlawb/openclaude) and the Gitlawb protocol (decentralized git node, onchain contracts, AI-agent tooling)
-- 🧠 **Core contributor** to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude) — #3 contributor on a 28k★ AI coding agent that runs anywhere and uses any model
-- 🤝 Contributor to [`openclaw/openclaw`](https://github.com/openclaw/openclaw) (378k★) and [`open-webui/open-webui`](https://github.com/open-webui/open-webui)
+- 🧠 **Core contributor** to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude) — #3 contributor on a 29k★ AI coding agent that runs anywhere and uses any model
+- 🤝 Contributor to [`openclaw/openclaw`](https://github.com/openclaw/openclaw) (380k★) and [`open-webui/open-webui`](https://github.com/open-webui/open-webui) (143k★) — a diagnostics fix in openclaw, Tamil (ta-IN) localization in Open WebUI
 - 🦾 Contributor to [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent) (204k★) — landed a Discord auth fix in mainline, with an [open search fix](https://github.com/NousResearch/hermes-agent/pull/54289) in review
 - 🤖 Building a full **onchain AI-agent stack** on [Kite](https://github.com/gnanam1990?tab=repositories&q=kite) — wallets, payments, automation, research & trading agents
 - ⛓️ Author of [`sherpa`](https://github.com/gnanam1990/sherpa) — a natural-language onchain agent for **Base** (Smart Wallet + sponsored gas)
@@ -66,7 +66,7 @@ I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and 
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 openclaude — Core Contributor</h3>
-      <p><strong>#3 contributor</strong> to <a href="https://github.com/Gitlawb/openclaude">Gitlawb/openclaude</a> (28k★) — an AI coding agent that runs anywhere and uses any model.</p>
+      <p><strong>#3 contributor</strong> to <a href="https://github.com/Gitlawb/openclaude">Gitlawb/openclaude</a> (29k★) — an AI coding agent that runs anywhere and uses any model.</p>
       <a href="https://github.com/Gitlawb/openclaude"><img src="https://img.shields.io/badge/openclaude-Core%20Contributor-22c55e?style=for-the-badge&labelColor=020617" alt="openclaude core contributor" /></a>
     </td>
     <td width="50%" valign="top">
@@ -149,6 +149,8 @@ I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and 
 | [`kite-research-agent`](https://github.com/gnanam1990/kite-research-agent) | Autonomous research analyst for Kite wallets, contracts, and ecosystem activity. |
 | [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude) | Core contributor (#3) — an open AI coding agent that runs anywhere and uses any model. |
 | [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent) | Contributor (204k★) — Discord auth fix merged to mainline, plus an open CJK search fix. |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | Contributor (380k★) — session-diagnostics backoff fix merged to mainline. |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | Contributor (143k★) — added Tamil (ta-IN) localization. |
 
 ## 🎯 Current Focus
 
