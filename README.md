@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,35:0f766e,70:2563eb,100:ec4899&text=KRATOS&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Engineer%20%E2%80%A2%20Onchain%20Agent%20Infrastructure%20%E2%80%A2%20Open%20Source&descSize=17&descAlignY=58&animation=twinkling" alt="Animated profile header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+onchain+AI+agent+infrastructure;Shipping+AI+developer+tooling+%26+full-stack+apps;TypeScript+%7C+Python+%7C+Rust+%7C+Solidity;Always+debugging%2C+reviewing%2C+and+improving)](https://github.com/gnanam1990)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Zero+%E2%80%94+a+terminal+AI+coding+agent;Building+onchain+AI+agent+infrastructure;Shipping+AI+developer+tooling+%26+full-stack+apps;TypeScript+%7C+Python+%7C+Rust+%7C+Solidity;Always+debugging%2C+reviewing%2C+and+improving)](https://github.com/gnanam1990)
 
 <p>
   <a href="https://github.com/gnanam1990"><img src="https://img.shields.io/badge/GitHub-gnanam1990-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub profile" /></a>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<sub><b>Developer</b> @ Gitlawb &nbsp;·&nbsp; <b>Contributor</b> @ openclaw &nbsp;·&nbsp; <b>Contributor</b> @ open-webui &nbsp;·&nbsp; <b>Contributor</b> @ Hermes Agent</sub>
+<sub><b>Core developer</b> of Zero &nbsp;·&nbsp; <b>Developer</b> @ Gitlawb &nbsp;·&nbsp; <b>Contributor</b> @ openclaw &nbsp;·&nbsp; <b>Contributor</b> @ open-webui &nbsp;·&nbsp; <b>Contributor</b> @ Hermes Agent</sub>
 
 </div>
 
@@ -38,6 +38,7 @@
 
 I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and **AI developer tooling**. Most of my work lives where autonomous agents meet real systems — payments, wallets, automation, and reputation — alongside practical AI tooling and full-stack products. I like working inside active codebases where debugging, implementation quality, and careful review matter.
 
+- 🖥️ **Core developer of [`Zero`](https://github.com/Gitlawb/zero)** — top contributor (192 commits) to a terminal AI coding agent built on one idea: *your model, your machine, your rules*. I own the runtime & backend core — providers, sessions, tools, streaming, and the PR review pipeline.
 - 🏗️ **Developer @ [Gitlawb](https://github.com/Gitlawb)** — building [`openclaude`](https://github.com/Gitlawb/openclaude) and the Gitlawb protocol (decentralized git node, onchain contracts, AI-agent tooling)
 - 🧠 **Core contributor** to [`Gitlawb/openclaude`](https://github.com/Gitlawb/openclaude) — #3 contributor on a 29k★ AI coding agent that runs anywhere and uses any model
 - 🤝 Contributor to [`openclaw/openclaw`](https://github.com/openclaw/openclaw) (380k★) and [`open-webui/open-webui`](https://github.com/open-webui/open-webui) (143k★) — a diagnostics fix in openclaw, Tamil (ta-IN) localization in Open WebUI
@@ -51,6 +52,14 @@ I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and 
 ## 🚀 What I Build
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🖥️ Zero — Core Developer</h3>
+      <p><strong>Top contributor (192 commits)</strong> to <a href="https://github.com/Gitlawb/zero">Gitlawb/zero</a> — a terminal AI coding agent built on one idea: <em>your model, your machine, your rules</em>. I own the runtime and backend core — providers, sessions, tools, and streaming — and drive the PR review pipeline.</p>
+      <a href="https://github.com/Gitlawb/zero"><img src="https://img.shields.io/badge/Zero-Core%20Developer-0ea5e9?style=for-the-badge&labelColor=020617" alt="Core developer of Zero" /></a>
+      <img src="https://img.shields.io/github/stars/Gitlawb/zero?style=for-the-badge&label=stars&labelColor=020617&color=0ea5e9" alt="Zero stars" />
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Kite Agent Ecosystem</h3>
@@ -142,6 +151,7 @@ I'm an AI & full-stack engineer who builds **onchain agent infrastructure** and 
 
 | Project | Description |
 | --- | --- |
+| [`Gitlawb/zero`](https://github.com/Gitlawb/zero) | **Core developer / top contributor (192 commits)** — a terminal AI coding agent: your model, your machine, your rules. Runtime & backend core, providers, and code review. |
 | [`sherpa`](https://github.com/gnanam1990/sherpa) | Natural-language onchain agent for Base — plain English in, onchain actions out. Smart Wallet + sponsored gas, MIT licensed. |
 | [`kiteagentos`](https://github.com/gnanam1990/kiteagentos) | Operating system / control plane for autonomous Kite agents. |
 | [`agentfi-app`](https://github.com/gnanam1990/agentfi-app) | DeFi platform on Kite Mainnet — DEX, liquid staking, and yield aggregation. |
