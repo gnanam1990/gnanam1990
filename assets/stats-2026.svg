@@ -1,0 +1,70 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="2026 lines of code and language breakdown">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#010409"/>
+      <stop offset="1" stop-color="#0b0f16"/>
+    </linearGradient>
+    <linearGradient id="sframe" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39d353"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#39d353"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="ssoft" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect x="40" y="244" width="1120" height="28" rx="14"/></clipPath>
+    <clipPath id="rev"><rect x="40" y="244" width="0" height="28"><animate attributeName="width" from="0" to="1120" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;}
+      .lbl{font-size:14px;fill:#8b949e;letter-spacing:1.5px;}
+      .big{font-size:40px;font-weight:700;}
+      .hd{font-size:17px;font-weight:700;fill:#39d353;letter-spacing:1px;}
+      .sub{font-size:13px;fill:#6e7681;}
+      .g{fill:#39d353;}.r{fill:#f85149;}.c{fill:#2dd4bf;}
+      .pulse{animation:p 3s ease-in-out infinite}@keyframes p{0%,100%{opacity:.85}50%{opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="330" rx="18" fill="url(#sbg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="327" rx="16.5" fill="none" stroke="url(#sframe)" stroke-width="2.5" opacity="0.85"/>
+
+  <circle cx="46" cy="42" r="6" fill="#39d353" filter="url(#ssoft)"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="64" y="48" class="mono hd">$ ./loc --year 2026 --author gnanam1990</text>
+  <text x="1160" y="48" text-anchor="end" class="mono sub">owned repos · incl. private</text>
+
+  <rect x="40" y="72" width="356" height="118" rx="14" fill="#0d1117" stroke="#1f2933"/>
+  <text x="64" y="108" class="mono lbl">LINES ADDED</text>
+  <text x="64" y="158" class="mono big g pulse">+1,933,266</text>
+
+  <rect x="422" y="72" width="356" height="118" rx="14" fill="#0d1117" stroke="#1f2933"/>
+  <text x="446" y="108" class="mono lbl">LINES DELETED</text>
+  <text x="446" y="158" class="mono big r pulse">−111,830</text>
+
+  <rect x="804" y="72" width="356" height="118" rx="14" fill="#0d1117" stroke="#1f2933"/>
+  <text x="828" y="108" class="mono lbl">NET CHANGE</text>
+  <text x="828" y="158" class="mono big c pulse">+1,821,436</text>
+
+  <text x="40" y="228" class="mono lbl">LANGUAGE MIX · BY REPO</text>
+  <text x="1160" y="228" text-anchor="end" class="mono sub">148 active repos · 216 total</text>
+  <rect x="40" y="244" width="1120" height="28" rx="14" fill="#0d1117" stroke="#1f2933"/>
+  <g clip-path="url(#round)"><g clip-path="url(#rev)">
+    <rect x="40"   y="244" width="762" height="28" fill="#3178c6"/>
+    <rect x="802"  y="244" width="104" height="28" fill="#ffd43b"/>
+    <rect x="906"  y="244" width="97"  height="28" fill="#a78bfa"/>
+    <rect x="1003" y="244" width="65"  height="28" fill="#f1e05a"/>
+    <rect x="1068" y="244" width="46"  height="28" fill="#dea584"/>
+    <rect x="1114" y="244" width="33"  height="28" fill="#00add8"/>
+    <rect x="1147" y="244" width="13"  height="28" fill="#6e7681"/>
+  </g></g>
+
+  <g class="mono" font-size="13" fill="#8b949e">
+    <rect x="40"  y="292" width="12" height="12" rx="3" fill="#3178c6"/><text x="58"  y="302">TypeScript 68%</text>
+    <rect x="210" y="292" width="12" height="12" rx="3" fill="#ffd43b"/><text x="228" y="302">Python 9%</text>
+    <rect x="350" y="292" width="12" height="12" rx="3" fill="#a78bfa"/><text x="368" y="302">Solidity 9%</text>
+    <rect x="500" y="292" width="12" height="12" rx="3" fill="#f1e05a"/><text x="518" y="302">JavaScript 6%</text>
+    <rect x="680" y="292" width="12" height="12" rx="3" fill="#dea584"/><text x="698" y="302">Rust 4%</text>
+    <rect x="800" y="292" width="12" height="12" rx="3" fill="#00add8"/><text x="818" y="302">Go 3%</text>
+  </g>
+</svg>

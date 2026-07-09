@@ -1,0 +1,22 @@
+<svg width="1200" height="46" viewBox="0 0 1200 46" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal divider">
+  <defs>
+    <linearGradient id="dg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39d353"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#39d353"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-320 0;320 0;-320 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="dglow" x="-5%" y="-300%" width="110%" height="700%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;}
+    .cur{animation:blink 1s steps(2,start) infinite}@keyframes blink{50%{opacity:0}}</style>
+  </defs>
+  <rect width="1200" height="46" fill="transparent"/>
+  <text x="8" y="30" class="mono" font-size="20" font-weight="700" fill="#39d353">$</text>
+  <line x1="36" y1="23" x2="1168" y2="23" stroke="url(#dg)" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 9" filter="url(#dglow)">
+    <animate attributeName="stroke-dashoffset" values="0;-130" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <rect x="1178" y="14" width="14" height="18" rx="2" fill="#39d353" class="cur" filter="url(#dglow)"/>
+</svg>
