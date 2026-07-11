@@ -36,18 +36,18 @@
 
   <rect x="40" y="72" width="356" height="118" rx="14" fill="#0d1117" stroke="#1f2933"/>
   <text x="64" y="108" class="mono lbl">LINES ADDED</text>
-  <text x="64" y="158" class="mono big g pulse">+1,933,266</text>
+  <text x="64" y="158" class="mono big g pulse">+2,141,596</text>
 
   <rect x="422" y="72" width="356" height="118" rx="14" fill="#0d1117" stroke="#1f2933"/>
   <text x="446" y="108" class="mono lbl">LINES DELETED</text>
-  <text x="446" y="158" class="mono big r pulse">−111,830</text>
+  <text x="446" y="158" class="mono big r pulse">−119,501</text>
 
   <rect x="804" y="72" width="356" height="118" rx="14" fill="#0d1117" stroke="#1f2933"/>
   <text x="828" y="108" class="mono lbl">NET CHANGE</text>
-  <text x="828" y="158" class="mono big c pulse">+1,821,436</text>
+  <text x="828" y="158" class="mono big c pulse">+2,022,095</text>
 
   <text x="40" y="228" class="mono lbl">LANGUAGE MIX · BY REPO</text>
-  <text x="1160" y="228" text-anchor="end" class="mono sub">148 active repos · 216 total</text>
+  <text x="1160" y="228" text-anchor="end" class="mono sub">150 active repos · 217 total</text>
   <rect x="40" y="244" width="1120" height="28" rx="14" fill="#0d1117" stroke="#1f2933"/>
   <g clip-path="url(#round)"><g clip-path="url(#rev)">
     <rect x="40"   y="244" width="762" height="28" fill="#3178c6"/>

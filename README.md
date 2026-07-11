@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=850&height=48&lines=whoami%3A+KRATOS+%E2%80%94+AI+%26+Onchain+Engineer;1%2C933%2C266+lines+shipped+in+2026;Zero%3A+your+model%2C+your+machine%2C+your+rules;TypeScript+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Solidity+%C2%B7+Go;autonomous+agents+meet+real+systems)](https://github.com/gnanam1990)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=850&height=48&lines=whoami%3A+KRATOS+%E2%80%94+AI+%26+Onchain+Engineer;2%2C141%2C596+lines+shipped+in+2026;Zero%3A+your+model%2C+your+machine%2C+your+rules;TypeScript+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Solidity+%C2%B7+Go;autonomous+agents+meet+real+systems)](https://github.com/gnanam1990)
 
 <p>
   <a href="https://github.com/gnanam1990"><img src="https://img.shields.io/badge/github-gnanam1990-39d353?style=flat-square&logo=github&logoColor=white&labelColor=010409" alt="GitHub" /></a>
@@ -38,17 +38,17 @@ automation, and reputation, alongside practical AI tooling and full-stack produc
 
 <div align="center">
 
-<img width="100%" src="./assets/stats-2026.svg" alt="2026 lines of code: +1,933,266 added, -111,830 deleted, net +1,821,436" />
+<img width="100%" src="./assets/stats-2026.svg" alt="2026 lines of code: +2,141,596 added, -119,501 deleted, net +2,022,095" />
 
 <br/>
 
 | metric | value |
 | :--- | ---: |
-| `lines_added` | **1,933,266** |
-| `lines_deleted` | **111,830** |
-| `net_change` | **+1,821,436** |
-| `active_repos` | 148 |
-| `repos_scanned` | 197 |
+| `lines_added` | **2,141,596** |
+| `lines_deleted` | **119,501** |
+| `net_change` | **+2,022,095** |
+| `active_repos` | 150 |
+| `repos_scanned` | 198 |
 
 <sub>Counts commits authored by <code>gnanam1990</code> in <b>2026</b> across <b>owned non-fork repos</b> (including private), via GitHub's contributor stats API.</sub>
 
@@ -68,6 +68,7 @@ drwxr-xr-x  zero             core developer · terminal AI coding agent
 drwxr-xr-x  onchain-agents   wallets · payments · subscriptions · automation · trading
 drwxr-xr-x  sherpa           natural-language agent for Base · smart wallet + sponsored gas
 drwxr-xr-x  gitlawb          openclaude + decentralized git / onchain agent protocol
+drwxr-xr-x  pr-review-agent  approval-first AI PR review · CLI + MCP · 108K+ LOC
 ```
 
 <table>
@@ -94,6 +95,16 @@ drwxr-xr-x  gitlawb          openclaude + decentralized git / onchain agent prot
       <h3>🏗️ Gitlawb</h3>
       <p>Developer building openclaude and the Gitlawb protocol: decentralized git, onchain contracts, AI-agent tooling.</p>
       <a href="https://github.com/Gitlawb"><img src="https://img.shields.io/badge/gitlawb-developer-39d353?style=flat-square&labelColor=010409" alt="Developer at Gitlawb" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ personal-pr-review-agent</h3>
+      <p>Approval-first AI PR review agent (CLI + MCP, multi-provider). 108K+ lines of TypeScript across 710 files, 62 commits, 22 releases — security detectors, review engine, and a hosted review dashboard.</p>
+      <a href="https://github.com/gnanam1990/personal-pr-review-agent"><img src="https://img.shields.io/badge/pr--review--agent-approval--first-39d353?style=flat-square&labelColor=010409" alt="personal-pr-review-agent" /></a>
+      <img src="https://img.shields.io/badge/loc-108K%2B-2dd4bf?style=flat-square&labelColor=010409" alt="108K+ lines" />
+      <img src="https://img.shields.io/badge/license-MIT-e3b341?style=flat-square&labelColor=010409" alt="MIT license" />
+      <img src="https://img.shields.io/badge/lang-TypeScript-3178c6?style=flat-square&labelColor=010409" alt="TypeScript" />
     </td>
   </tr>
 </table>
