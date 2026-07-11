@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/gnanam1990"><img src="https://img.shields.io/badge/github-gnanam1990-39d353?style=flat-square&logo=github&logoColor=white&labelColor=010409" alt="GitHub" /></a>
-  <a href="https://x.com/0x_art"><img src="https://img.shields.io/badge/x-%400x__art-2dd4bf?style=flat-square&logo=x&logoColor=white&labelColor=010409" alt="X" /></a>
+  <a href="https://x.com/pindropsx"><img src="https://img.shields.io/badge/x-%40pindropsx-2dd4bf?style=flat-square&logo=x&logoColor=white&labelColor=010409" alt="X" /></a>
   <a href="https://t.me/gnanamccnOOb"><img src="https://img.shields.io/badge/telegram-connect-2dd4bf?style=flat-square&logo=telegram&logoColor=white&labelColor=010409" alt="Telegram" /></a>
   <img src="https://komarev.com/ghpvc/?username=gnanam1990&style=flat-square&color=39d353&label=visitors&labelColor=010409" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/gnanam1990?style=flat-square&logo=github&logoColor=white&label=followers&labelColor=010409&color=39d353" alt="Followers" />
@@ -170,7 +170,7 @@ drwxr-xr-x  pr-review-agent  approval-first AI PR review · CLI + MCP · 108K+ L
 
 <div align="center">
 
-<a href="https://x.com/0x_art"><img src="https://img.shields.io/badge/x-%400x__art-2dd4bf?style=flat-square&logo=x&logoColor=white&labelColor=010409" alt="X" /></a>
+<a href="https://x.com/pindropsx"><img src="https://img.shields.io/badge/x-%40pindropsx-2dd4bf?style=flat-square&logo=x&logoColor=white&labelColor=010409" alt="X" /></a>
 <a href="https://t.me/gnanamccnOOb"><img src="https://img.shields.io/badge/telegram-gnanamccnOOb-2dd4bf?style=flat-square&logo=telegram&logoColor=white&labelColor=010409" alt="Telegram" /></a>
 <a href="https://github.com/gnanam1990"><img src="https://img.shields.io/badge/github-gnanam1990-39d353?style=flat-square&logo=github&logoColor=white&labelColor=010409" alt="GitHub" /></a>
 
