@@ -54,8 +54,14 @@ automation, and reputation, alongside practical AI tooling and full-stack produc
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gnanam1990&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=2dd4bf&ring_color=39d353" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanam1990&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages" />
+<p>
+  <img src="https://img.shields.io/github/followers/gnanam1990?style=flat-square&label=followers&labelColor=010409&color=39d353" alt="Followers" />
+  <img src="https://img.shields.io/badge/total%20repos-217-2dd4bf?style=flat-square&labelColor=010409" alt="Total repos" />
+  <img src="https://img.shields.io/badge/total%20stars-59-e3b341?style=flat-square&logo=github&labelColor=010409" alt="Total stars" />
+  <img src="https://img.shields.io/badge/2026%20lines-2.14M-39d353?style=flat-square&labelColor=010409" alt="2026 lines" />
+  <img src="https://img.shields.io/badge/active%20repos-150-39d353?style=flat-square&labelColor=010409" alt="Active repos" />
+  <img src="https://img.shields.io/badge/starred%20repos-50-2dd4bf?style=flat-square&labelColor=010409" alt="Repos with stars" />
+</p>
 
 </div>
 
@@ -105,6 +111,55 @@ drwxr-xr-x  pr-review-agent  approval-first AI PR review · CLI + MCP · 108K+ L
       <img src="https://img.shields.io/badge/loc-108K%2B-2dd4bf?style=flat-square&labelColor=010409" alt="108K+ lines" />
       <img src="https://img.shields.io/badge/license-MIT-e3b341?style=flat-square&labelColor=010409" alt="MIT license" />
       <img src="https://img.shields.io/badge/lang-TypeScript-3178c6?style=flat-square&labelColor=010409" alt="TypeScript" />
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
+
+## `$ gh repo list --featured`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gnanam1990/argus"><b>argus</b></a><br/>
+      <img src="https://img.shields.io/github/stars/gnanam1990/argus?style=flat-square&labelColor=010409&color=39d353" alt="argus stars" />
+      <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&labelColor=010409" alt="Go" /><br/>
+      <sub>Provider-agnostic computer-use agent, written in Go: observe &rarr; think &rarr; act, with swappable set-of-marks grounding and a single-binary driver.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gnanam1990/polymarket-copy-bot"><b>polymarket-copy-bot</b></a><br/>
+      <img src="https://img.shields.io/github/stars/gnanam1990/polymarket-copy-bot?style=flat-square&labelColor=010409&color=39d353" alt="polymarket-copy-bot stars" />
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&labelColor=010409&logo=python&logoColor=white" alt="Python" /><br/>
+      <sub>Copy trades from top Polymarket wallets. Multi-wallet tracking, ROI filtering, paper/live trading, real-time Flask dashboard.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gnanam1990/sherpa"><b>sherpa</b></a><br/>
+      <img src="https://img.shields.io/github/stars/gnanam1990/sherpa?style=flat-square&labelColor=010409&color=39d353" alt="sherpa stars" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&labelColor=010409" alt="Solidity" /><br/>
+      <sub>Natural-language DeFi agent for Base. Type plain English, Sherpa does the onchain part. Coinbase Smart Wallet + sponsored gas.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gnanam1990/personal-pr-review-agent"><b>personal-pr-review-agent</b></a><br/>
+      <img src="https://img.shields.io/github/stars/gnanam1990/personal-pr-review-agent?style=flat-square&labelColor=010409&color=39d353" alt="personal-pr-review-agent stars" />
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&labelColor=010409&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+      <sub>Approval-first AI PR review agent (CLI + MCP, multi-provider). 108K+ LOC, security detectors, review engine, hosted dashboard.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gnanam1990/witness"><b>witness</b></a><br/>
+      <img src="https://img.shields.io/github/stars/gnanam1990/witness?style=flat-square&labelColor=010409&color=39d353" alt="witness stars" />
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&labelColor=010409&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+      <sub>Onchain auditing agent.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gnanam1990/agent-registry"><b>agent-registry</b></a><br/>
+      <img src="https://img.shields.io/github/stars/gnanam1990/agent-registry?style=flat-square&labelColor=010409&color=39d353" alt="agent-registry stars" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&labelColor=010409" alt="Solidity" /><br/>
+      <sub>Composable on-chain agent identity, reputation &amp; USDC escrow primitives, with a read-only dashboard.</sub>
     </td>
   </tr>
 </table>
