@@ -1,0 +1,74 @@
+<svg width="1200" height="268" viewBox="0 0 1200 268" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio summary: 254 repositories, 121 public, 2136 commits in 2026, 579 pull requests, 67 stars, 132 followers">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1200" y2="268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#010409"/>
+      <stop offset="1" stop-color="#0b0f16"/>
+    </linearGradient>
+    <linearGradient id="pframe" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39d353"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#39d353"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="psoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;}
+      .hd{font-size:17px;font-weight:700;fill:#39d353;letter-spacing:1px;}
+      .sub{font-size:13px;fill:#6e7681;}
+      .lbl{font-size:11.5px;fill:#8b949e;letter-spacing:1.6px;}
+      .val{font-size:34px;font-weight:700;}
+      .g{fill:#39d353;}.c{fill:#2dd4bf;}.a{fill:#e3b341;}.v{fill:#a78bfa;}
+      .tile{opacity:0;animation:pop 12s ease-in-out infinite;}
+      .d2{animation-delay:.12s}.d3{animation-delay:.24s}.d4{animation-delay:.36s}
+      .d5{animation-delay:.48s}.d6{animation-delay:.6s}
+      @keyframes pop{0%,1%{opacity:0;transform:translateY(5px)}6%,92%{opacity:1;transform:translateY(0)}98%,100%{opacity:0;transform:translateY(-5px)}}
+      @media (prefers-reduced-motion:reduce){.tile{animation:none;opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="268" rx="18" fill="url(#pbg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="265" rx="16.5" fill="none" stroke="url(#pframe)" stroke-width="2.5" opacity="0.85"/>
+
+  <circle cx="46" cy="42" r="6" fill="#39d353" filter="url(#psoft)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="64" y="48" class="mono hd">$ ./portfolio --summary</text>
+  <text x="1160" y="48" text-anchor="end" class="mono sub">live from the GitHub API</text>
+
+  <g class="tile">
+    <rect x="40" y="72" width="173" height="110" rx="14" fill="#0d1117" stroke="#1f2933"/>
+    <text x="60" y="104" class="mono lbl">REPOSITORIES</text>
+    <text x="60" y="150" class="mono val g">254</text>
+  </g>
+  <g class="tile d2">
+    <rect x="229" y="72" width="173" height="110" rx="14" fill="#0d1117" stroke="#1f2933"/>
+    <text x="249" y="104" class="mono lbl">PUBLIC</text>
+    <text x="249" y="150" class="mono val c">121</text>
+  </g>
+  <g class="tile d3">
+    <rect x="418" y="72" width="173" height="110" rx="14" fill="#0d1117" stroke="#1f2933"/>
+    <text x="438" y="104" class="mono lbl">COMMITS 2026</text>
+    <text x="438" y="150" class="mono val g">2,136</text>
+  </g>
+  <g class="tile d4">
+    <rect x="607" y="72" width="173" height="110" rx="14" fill="#0d1117" stroke="#1f2933"/>
+    <text x="627" y="104" class="mono lbl">PULL REQUESTS</text>
+    <text x="627" y="150" class="mono val v">579</text>
+  </g>
+  <g class="tile d5">
+    <rect x="796" y="72" width="173" height="110" rx="14" fill="#0d1117" stroke="#1f2933"/>
+    <text x="816" y="104" class="mono lbl">STARS</text>
+    <text x="816" y="150" class="mono val a">67</text>
+  </g>
+  <g class="tile d6">
+    <rect x="985" y="72" width="173" height="110" rx="14" fill="#0d1117" stroke="#1f2933"/>
+    <text x="1005" y="104" class="mono lbl">FOLLOWERS</text>
+    <text x="1005" y="150" class="mono val c">132</text>
+  </g>
+
+  <rect x="40" y="206" width="1120" height="1" fill="#1f2933"/>
+  <text x="40" y="240" class="mono sub">79 repositories touched in 2026 &#183; 3,342 total contributions &#183; TypeScript &#183; Go &#183; Rust &#183; Solidity &#183; Python</text>
+</svg>
