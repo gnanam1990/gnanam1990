@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img width="100%" src="./assets/terminal-hero.svg" alt="Terminal neofetch summary for KRATOS (gnanam1990)" />
@@ -250,7 +252,7 @@ drwxr-xr-x  sieve            zero-infra, provider-agnostic PR review · bring yo
   <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>Regenerated automatically by GitHub Actions.</sub>
+<sub>Regenerated automatically by GitHub Actions into the output branch.</sub>
 
 </div>
 
