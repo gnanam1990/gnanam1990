@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/terminal-hero.svg?v=20261117" alt="KRATOS — agent systems and programmable money engineer" />
+<img width="100%" src="./assets/profile-hero.svg" alt="KRATOS — agent systems and programmable money engineer" />
 
 <br/>
 
