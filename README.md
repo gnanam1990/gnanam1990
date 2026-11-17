@@ -41,6 +41,32 @@ Public merge history verified **17 November 2026**. Counts are a dated snapshot;
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
+## `$ git activity --since 2026-01-01`
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnanam1990&theme=github_dark" alt="GitHub activity by date for the last twelve months" />
+
+<br/>
+
+| verified 2026 snapshot | count |
+| :--- | ---: |
+| `commits` | **2,136** |
+| `pull_requests` | **579** |
+| `total_contributions` | **3,342** |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Daily GitHub contribution calendar" src="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Snapshot verified 17 November 2026 through GitHub's contributions data. The chart and calendar show date-wise GitHub activity and update independently; private contribution details may remain hidden by GitHub.</sub>
+
+</div>
+
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
+
 ## `$ cat engineering-principles.md`
 
 ```text
