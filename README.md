@@ -18,57 +18,26 @@
 
 I build agent systems that can act without asking people to trust a black box: scoped authority, explicit failure states, verifiable settlement and recovery before retry.
 
-My work sits across **local-first AI agents**, **developer infrastructure** and **programmable money on Arc and Base**. Every project below links to source, and its label distinguishes a live product from testnet proof or pre-alpha work.
+My work sits across **local-first AI agents**, **developer infrastructure** and **programmable money on Arc and Base**. This profile focuses on accepted open-source contributions; my evidence-labelled product portfolio lives separately at [devkratos.info](https://devkratos.info).
 
-- **Core developer:** [Zero](https://github.com/Twigpine/zero)
-- **Developer:** [Gitlawb](https://github.com/Gitlawb)
+- **Core developer:** [Zero](https://github.com/Twigpine/zero) and [Zero App](https://github.com/Twigpine/zero-app)
+- **Contributor:** [OpenClaude](https://github.com/Twigpine/openclaude), [OpenClaude Skills](https://github.com/Twigpine/openclaude-skills), [Open WebUI](https://github.com/open-webui/open-webui), [Hermes Agent](https://github.com/NousResearch/hermes-agent) and [OpenClaw](https://github.com/openclaw/openclaw)
 - **Portfolio:** [devkratos.info](https://devkratos.info)
 - **Primary stack:** Go · TypeScript · Solidity · Rust · Python · React
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-## `$ ls ~/selected-systems`
+## `$ git shortlog --accepted`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Twigpine/zero">Zero</a></h3>
-      <p><code>CORE DEVELOPER · LIVE OPEN SOURCE</code></p>
-      <p>A local-first terminal coding agent built around one rule: your model, your machine, your rules. My contribution lane covers runtime, providers, sessions, tools, review and security boundaries.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnanam1990/snapfall">Snapfall</a></h3>
-      <p><code>ARC · MAINNET READ-ONLY · TESTNET FULL FLOW</code></p>
-      <p>Working capital for autonomous services. A capped pool advances approved costs, then a contract-enforced waterfall repays capital before the operator receives the remainder.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnanam1990/sherpa">Sherpa</a></h3>
-      <p><code>BASE · LIVE MAINNET PRODUCT</code></p>
-      <p>Turns plain-English DeFi intent into a typed plan, runs deterministic safety checks and presents the exact transaction before any Base mainnet execution.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnanam1990/flowops">FlowOps</a></h3>
-      <p><code>BASE · PRE-ALPHA · NO MAINNET FUNDS</code></p>
-      <p>Policy, authorization, delivery evidence and reconciliation for agent payments. Unknown settlement state is reconciled before any retry.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnanam1990/node">Node</a></h3>
-      <p><code>GITLAWB · LIVE OPEN-SOURCE NETWORK</code></p>
-      <p>Self-hosted repositories, Ed25519 identity, signed HTTP operations and libp2p discovery for a git network without a mandatory hosted control plane.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnanam1990/sieve">Sieve</a></h3>
-      <p><code>GO · ZERO-INFRA PR REVIEW</code></p>
-      <p>A provider-agnostic pull-request reviewer that runs as a binary—diff reasoning, risk ranking and inline review without a dedicated webhook service.</p>
-    </td>
-  </tr>
-</table>
+Public merge history verified **17 November 2026**. Counts are a dated snapshot; each link opens the accepted pull requests rather than a self-reported total.
 
-> The complete evidence-labelled portfolio—including live links, chain role and current limitations—is at [devkratos.info](https://devkratos.info).
+- **[Zero](https://github.com/Twigpine/zero/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged) — 197 merged PRs.** ACP/MCP interoperability, swarm handoff, session and tool lifecycles, locking, providers, privacy, sandboxing and adversarial fixes across the Go runtime.
+- **[Zero App](https://github.com/Twigpine/zero-app/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged) — 150 merged PRs.** Provider-neutral agent chat plus permissioned computer control across macOS, Windows and Linux, with application identity, scoped grants and recovery after denied or failed actions.
+- **[OpenClaude](https://github.com/Twigpine/openclaude/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged) + [OpenClaude Skills](https://github.com/Twigpine/openclaude-skills/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged) — 87 merged PRs.** OAuth and provider reliability, runtime failure handling, input/tool ergonomics and reusable production workflows.
+- **[Open WebUI](https://github.com/open-webui/open-webui/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged) — Tamil localisation accepted.** Two merged contributions added and completed the `ta-IN` interface path.
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged), [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged) and [Brian](https://github.com/Twigpine/brian/pulls?q=is%3Apr+author%3Agnanam1990+is%3Amerged).** Accepted work covers the Memory Ferry catalog integration, recovery-safe diagnostics and a golden-parity EWMAC strategy port.
+
+> These are collaborative repositories. The wording above describes my accepted contribution lane, not sole authorship.
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
