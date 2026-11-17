@@ -51,9 +51,10 @@ Public merge history verified **17 November 2026**. Counts are a dated snapshot;
 
 | verified 2026 snapshot | count |
 | :--- | ---: |
-| `commits` | **2,136** |
-| `pull_requests` | **579** |
-| `total_contributions` | **3,342** |
+| `all_time_github_contributions` | **11.66k+** |
+| `2026_commits` | **2,136** |
+| `2026_pull_requests` | **579** |
+| `2026_total_contributions` | **3,342** |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake-dark.svg" />
@@ -61,7 +62,7 @@ Public merge history verified **17 November 2026**. Counts are a dated snapshot;
   <img width="100%" alt="Daily GitHub contribution calendar" src="https://raw.githubusercontent.com/gnanam1990/gnanam1990/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>Snapshot verified 17 November 2026 through GitHub's contributions data. The chart and calendar show date-wise GitHub activity and update independently; private contribution details may remain hidden by GitHub.</sub>
+<sub>Snapshot verified 17 November 2026 through GitHub's contributions data. The 11.66k figure is all-time GitHub contributions—not commit count. The chart and calendar show date-wise activity and update independently; private contribution details may remain hidden by GitHub.</sub>
 
 </div>
 
