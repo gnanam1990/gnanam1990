@@ -22,6 +22,7 @@ My work sits across **local-first AI agents**, **developer infrastructure** and 
 
 - **Core developer:** [Zero](https://github.com/Twigpine/zero) and [Zero App](https://github.com/Twigpine/zero-app)
 - **Contributor:** [OpenClaude](https://github.com/Twigpine/openclaude), [OpenClaude Skills](https://github.com/Twigpine/openclaude-skills), [Open WebUI](https://github.com/open-webui/open-webui), [Hermes Agent](https://github.com/NousResearch/hermes-agent) and [OpenClaw](https://github.com/openclaw/openclaw)
+- **Award:** Winner, Ignyte Stablecoins Commerce Stack Challenge (Circle), for [Snapfall](https://github.com/gnanam1990/snapfall)
 - **Portfolio:** [devkratos.info](https://devkratos.info)
 - **Primary stack:** Go · TypeScript · Solidity · Rust · Python · React
 
